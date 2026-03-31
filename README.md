@@ -1,0 +1,1 @@
+# ThinkPad-X9-14-Aura-Edition-Intel-MIPI-Camera-Fix-for-Ubuntu-24.04-and-Pop-_OS-24.04
